@@ -1,0 +1,403 @@
+body {
+  background-image: url("pics/back.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+table{
+  font-weight: 500;
+}
+#pd{
+  color:blue;
+}
+#table{
+  display: none;
+}
+#info{
+  display: none;
+}
+#card{
+  display: none;
+}
+i{
+  line-height: 70px;
+  font-size: 20px;
+  color: gray;
+}
+p {
+  word-spacing: 7px;
+  font-size: 20px;
+}
+.ab {
+background-color:black;
+}
+.ab anchor {
+text-align: center;
+font-size: 17px;
+color:white;
+}
+.ab anchor:hover {
+background-color: white;
+color: black;
+border-radius: 50px;
+}
+
+#footer{
+  font-size: large;
+  background-color:azure; 
+}
+#field {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+}
+
+.fa-instagram{
+  background-color:red;color:white;
+}
+.fa-facebook{
+  background-color:mediumblue;color:white;
+}
+.fa-twitter{
+  background-color:deepskyblue;color:white;
+}
+.fa-envelope .fa-phone{
+  color:black;
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  color: white;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.midnav {
+  overflow: hidden;
+  background-color: black;
+  border-radius: 50px;
+}
+
+.midnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  color: white;
+}
+
+.midnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+p {
+  line-height: 40px;
+  letter-spacing: 3px;
+  word-spacing: 4px;
+}
+
+#f {
+  height: 500px;
+  width: 900px;
+  background:rgba(255,255,255,0.3);
+  border: 1px solid black;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px black;
+}
+#register {
+  height: 600px;
+  width: 900px;
+  background:rgba(255,255,255,0.3);
+  border: 1px solid black;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px black;
+}
+#reg{
+  height: 700px;
+  width: 300px;
+  margin: auto;
+}
+#feedback{
+  background:rgba(255,255,255,0.3);
+  height: 400px;
+  width: 350px;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px black;
+}
+b{
+  font-size: large;
+}
+.otp-container{
+  color: black;
+}
+
+#pi{
+  font-weight: bold;
+  color: black;
+  font-size: large;
+}
+hr{
+  border-top: 1px solid black;
+}
+#part{
+  height: 500px;
+  width: 260px;
+  background-color:royalblue;
+  font-weight: bold;
+  color: white;
+  font-size:medium;
+  text-align: center;
+  align-content: center;
+  border: 1px solid black;
+  border-top: 0px;
+}
+
+label {
+  font-size: 15pt;
+}
+
+.box-shadow{
+  border: #1234 13px solid;
+  background-color: black;
+  filter:drop-shadow(10px 10px 20px black);
+  border-radius: 25px;
+}
+
+i {
+  line-height: 70px;
+  font-size: 20px;
+  color: gray;
+}
+
+#b,
+#passanger,
+#class,
+#return,
+#depart,
+#to,
+#from,
+#b1 {
+  margin: 10px;
+}
+
+.fa {
+  color: black;
+}
+c{
+  color: black;
+  font-weight: 500;
+}
+
+#success {
+  height: 600px;
+  width: 1460px;
+  background-image: url(pics/payment.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+/* admin */
+.section{
+  text-align: center;
+}
+.dashbord{
+  width:23%;
+  display: inline-block;
+  background-color:rgb(67, 193, 193);
+  color:black;
+  margin-top: 50px; 
+  margin-bottom: 50px;
+  margin-right: 10px;
+}
+.icon i{
+  font-size: 30px;
+  padding:10px;
+  border:1px solid white;
+  border-radius:100%;
+  background-color:rgb(67, 193, 193);
+}
+.icon p{
+  margin:0px;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+.dashbord-green .icon,.dashbord-green .icon i{
+  background-color:rgb(67, 193, 193);
+}
+.dashbord-blue .icon,.dashbord-blue .icon i{
+  background-color: rgb(67, 193, 193);
+}
+.dashbord-red .icon,.dashbord-red .icon i{
+  background-color:rgb(67, 193, 193);
+}
+
+.add {
+  display: none;
+}
+
+#add1,
+#up1,
+#del {
+  color: white;
+  background-color: black;
+}
+
+#update{
+  margin-top: 150px;
+  background-image:url(pics/back.png);
+}
+
+.seat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  justify-items: center;
+}
+
+.seat {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #4CAF50;
+  color: #fff;
+}
+
+.occupied {
+  background-color: #FF5733;
+  color: #fff;
+  pointer-events: none;
+}
+
+#img1{
+float: left; 
+}
+#img2{
+  float: right;
+}
+
+#airport{
+  background:rgba(11, 10, 10, 0.5);
+  height: auto;
+  width: auto;
+  line-height: 40px;
+  letter-spacing: 3px;
+  word-spacing: 4px;
+  color: aliceblue;
+}
+
+#airlineticket{
+  background-color: #f1f1f1;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  height: auto;
+  max-width: 400px;
+}
+#t2{
+  color: #fff;
+  background-color: cornflowerblue;
+}
+
+#payment{
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  height: auto;
+  max-width: 400px;
+}
+
+#input{
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: black;
+}
+#input:focus{
+  border-color: green;
+  outline: 2px solid green;
+}
+
+.flight-component {
+  --w: min(700px, 90vw);
+  width: var(--w);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5em;
+  font-family:  Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 1.25rem;
+}
+
+/* Existing styles remain unchanged */
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  body {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #f, #register, #feedback, #success {
+    width: 90%;
+    height: auto;
+  }
+  
+  #reg {
+    width: 100%;
+  }
+  
+  #part {
+    width: 90%;
+    height: auto;
+    font-size: small;
+  }
+  
+  .topnav a, .midnav a {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .seat-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .flight-component {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+#weather{
+  height: 500px;
+  width: 500px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+  text-align: center;
+  background:rgba(255,255,255,0.3);
+  border: 1px solid black;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px black;
+}
