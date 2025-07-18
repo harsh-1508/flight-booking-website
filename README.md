@@ -17,8 +17,15 @@ This is a full-stack flight booking management system developed as a major proje
 
 ## 🚀 How to Run the Project Locally
 
-### Backend Setup
+Backend
 ```bash
 cd backend
 npm install
 npm start
+```
+Frontend
+```bash
+cd frontend
+npm install
+npm start
+
