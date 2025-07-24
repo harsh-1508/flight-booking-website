@@ -19,7 +19,7 @@ This is a full-stack flight booking management system developed as a major proje
 
 Backend
 ```bash
-cd backend
+cd api
 npm install
 npm start
 ```
