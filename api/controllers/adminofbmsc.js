@@ -119,8 +119,7 @@ export function send_email(req, res){
       service: 'Gmail',
       auth: {
         user: 'harshpatel150804@gmail.com',
-        // pass: 'leyc bmff tgrv favl'
-        pass: 'lcic yovm xnky rszu'
+        pass: 'fpth qkua mrnl twfp'
       }
     });
   

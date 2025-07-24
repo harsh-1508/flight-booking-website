@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "onlineflightbokking",
+  "private_key_id": "59e392efbd45e7b21e4f3e82bf4d893afeeb3639",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDxttw8Rz8qN6NE\nYjVu0kywgysAirM9LMNh3oLSD29kDj2+u40zJH72lSNZUuElFwbpV/JgfuWcBz2K\n/DenSgBNnHeELxeXn17D/b8HTxoE/dXRAEl3ihC22BxHLTwx2GXLEWPNiMshoyT3\nRj4BBKq5njBti1jiY1kSStS1awO8aeh0T3QCgcIRHQJoLPxa+tRn+NrZFyoVGqNN\n0Bk3CX508EAdjNazHJAFVue727nSOwX4jXWHXSxTcKtV4aInW4y9dOxntN12gIYJ\nlWfAewYPldh/sl6sKkunhi5f+JDabMEoNre3gcwN3/WgJ9jIe7MXm66CFBrRNjC3\nEG0Z7CuXAgMBAAECggEAErDMzOMcJkaRGxDrstBo2l6k15uMtUFIhmvZ+nueZcKY\nJwSCVvRj1kC9Wq3cTQLqfOauY6R3BXP7NUvAKJvB9D5ncNLiDyO6rzW9ghzYFToP\nljlgdPGPI08IuL7ttakBuLcf3DJ6CqApPpmxjQtFrFQSyJW1iiPxLPHuYBeQqA6d\n+3gJpjUu2gB0I1M1PduRYZEvn0ynznlSJrepDPlEY+KVS9awJOnRcaaKR/qL+c+6\n4yJ8QpGacuX6OIhzaco3XG7YdAj9BSXufw2cQRME8e5G63ah4lOo3+/k9Bjk0NXn\nq5on23ujKVh313lJ7uKNueaFPyO3cEtyVdGf0bWigQKBgQD40wQy4F1DMjQgaWJM\n8WepI295qwyJW6eZKduULVs7Mi/gerito2gnK0OLQXpExm14Rv9AvnzKDNsvGc2D\nQ6DkihoQRnlH1CHfqBCU9GarT2HcL/7ipRCwBJYjUB1ocQCSA2y2Nve62YYSdUAB\nSvSco0rzZ0mSVH0iDDSflyKdVwKBgQD4r1p0MWgvOxYsC+zjy2am7Mcmyseap+ns\nawY6nK8etoCpznEmM7mLUGK+IjRmIC0HG6eYkY0ZL9jM/ApbXMBXRjiDtySYxrXT\nTrz7aVK1IIbKGCffmPa5gxLSIWSZszDI+VqTyDJwdlxrqmtMZKp4AxzTib5lmL+X\ntHEhayO7wQKBgQCDd+L5CqjcLzNxiJzisI4nxMxKicDW9nFoMMCO2yQf89VuEwlu\n3S7Tuz0138O9gOYoLcMCL2N50i8hBM4cM+hXuEwrG0FLXV8EcCVKvpNcolW/ZDCV\nCcf2aIX3ZIYVP9egTmTrJcHgnLwFFqRZyoPSG0knsAQkZ7Wx/qbzR4SHgwKBgA7A\n2GzsQXIL31TdoEAjYQOmKGp0vUK/k3EjKEtx4DHCQf/Q74WErA1Hx5PgE5u7bPBv\nA5JZkDVeUU5X5YVmC0MiN1gZFWK65y6SDUQdC3sTYuu6YyMwv/JhhExTDtTPfKVv\npZ/+0H87hmAczCDMGBDmnl8uXM1KMpOdcNi6snQBAoGAazfKdVNFqEd8QLUceb4N\n+9quCT+wdo/hJB9h6MhyFVw4mvALhB5eulCrZhtTc1cqHh5s6VgC2mFXLCtAbd8A\nuV46gUDvaU4ruDqgo/037fxcsV/lfZHJCeH28VviEWDaHfng2qhtEZVFv7bzl3V1\nQ2pZQr0mSdmuZYE839S2BTg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-bot@onlineflightbokking.iam.gserviceaccount.com",
+  "client_id": "104056328819791737715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-bot%40onlineflightbokking.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
